@@ -48,7 +48,7 @@ Defining metabolites as identified or annotated is hugely important to provide c
 
 ## More informations see:
 
-* The role of reporting standards for metabolite annotation and identification in metabolomic studies Reza M Salek, Christoph Steinbeck, Mark R Viant, Royston Goodacre, Warwick B Dunn GigaScience 2013, 2:13 (16 October 2013)
+* [The role of reporting standards for metabolite annotation and identification in metabolomic studies.](https://academic.oup.com/gigascience/article/2/1/2047-217X-2-13/2656130) Reza M Salek, Christoph Steinbeck, Mark R Viant, Royston Goodacre, Warwick B Dunn GigaScience 2013, 2:13 (16 October 2013)
 
 * [Metabolite Identification Task Group](http://metabolomicssociety.org/board/scientific-task-groups/metabolite-identification-task-group)
 
