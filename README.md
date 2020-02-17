@@ -50,6 +50,8 @@ Defining metabolites as identified or annotated is hugely important to provide c
 
 * The role of reporting standards for metabolite annotation and identification in metabolomic studies Reza M Salek, Christoph Steinbeck, Mark R Viant, Royston Goodacre, Warwick B Dunn GigaScience 2013, 2:13 (16 October 2013)
 
+* [Metabolite Identification Task Group](http://metabolomicssociety.org/board/scientific-task-groups/metabolite-identification-task-group)
+
 **List of MSI related and standards publication**
 
 * Bundy, J., Davey, M., & Viant, M. (2009). Environmental metabolomics: a critical review and future perspectives. Metabolomics : Official journal of the Metabolomic Society, 5(1), 3-21, doi:10.1007/s11306-008-0152-0.
