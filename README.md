@@ -12,14 +12,14 @@ The aim was to allow data to be efficiently applied, shared and reused. There we
 2. **Ontology:** The CV and ontology will be developed iteratively by the ontology WG on the basis of CIMR. This will be done in collaboration with: HUPO-PSI, FGED (MGED) and OBI ontology (former FuGO).
 3. **Exchange format:** A data model and exchange format will be developed by the exchange format WG on the basis of CIMR, making use of the MSI ontology. This will be done in a collaborative and iterative approach, including HUPO-PSI and FUGE. 
 4- **Biological context metadata WG**
-* In vivo / mammalian biologuy context
-* Plant biology context
-* In vitro biology/microbiology context
-* Environmental analysis context
-* Chemical analysis WG
-* Data processing/analysis WG
-* Ontology WG
-* Exchange format WG
+* [In vivo / mammalian biologuy context](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-invitro.pdf)
+* [Plant biology context](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-plant.pdf)
+* [In vitro biology/microbiology context](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-invitro.pdf)
+* [Environmental analysis context](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-ECWSG_reporting_requirements_v1.pdf)
+* [Chemical analysis WG](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-cag.pdf)
+* [Data processing/analysis WG](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-DA%20standardsVer2.pdf)
+* [Ontology WG](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-RoadmapOWG.pdf)
+* [Exchange format WG](https://github.com/MSI-Metabolomics-Standards-Initiative/CIMR/blob/master/cimr-Exchange%20format%20WG.pdf)
  
 
 ## Historical links to original sourceforge site:
@@ -42,7 +42,7 @@ Exchange format WG| Nigel Hardy, Chris Taylor
  
 **Important differences:** Level 1 identification necessitates that 2 or more orthogonal properties of an authentic chemical standard analysed in the researcher’s laboratory are compared to experimental data acquired in the same laboratory with the same analytical methods.
 
-By contrast, level 2 and 3 annotation does not require matching to data for authentic chemical standards acquired within the same laboratory. Many studies do not compare experimental data to data acquired for authentic chemical standards, and therefore annotations and not identifications are achieved.
+By contrast, level 2 and 3 annotation **does not require matching to data for authentic chemical standards** acquired within the same laboratory. Many studies do not compare experimental data to data acquired for authentic chemical standards, and therefore annotations and not identifications are achieved.
 
 Defining metabolites as identified or annotated is hugely important to provide clarity. It is recommended that all researchers define the level of identification, common name and structural code (e.g., InChI or SMILES) in their publications and when submitting data to repositories. However, the current use of these standards is low in peer-reviewed publications. As a community we need to robustly apply these reporting standards routinely.
 
